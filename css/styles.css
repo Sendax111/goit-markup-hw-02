@@ -20,6 +20,7 @@ font-size: 18px;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
+line-height: 1.17
 }
 .page-nav {
     font-family: "Roboto", sans-serif;
@@ -128,4 +129,6 @@ font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         color: #f4f4fd;
  }
- 
+ span {
+    span:#2e2f42;
+ }
