@@ -64,7 +64,7 @@ font-family: "Roboto", sans-serif;
     color: #434455;
     line-height: 1.5;
 }
-.text-benefits-h3 {
+.text-benefits-h {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
@@ -91,6 +91,7 @@ font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        line-height: 1.2;
 }
 .text-our-team {
     font-family: "Roboto", sans-serif;
@@ -99,6 +100,7 @@ font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
+        line-height: 1.5;
 }
 .head-our-portfolio {
     font-family: "Roboto", sans-serif;
@@ -163,6 +165,6 @@ font-family: "Roboto", sans-serif;
 .button-header:focus {
     background-color: #404BBF;
 }
-.li-benefits {
-
+.li-our-team {
+    background-color: #FFFFFF;
 }
