@@ -35,6 +35,7 @@ line-height: 1.17
         font-size: 16px;
         letter-spacing: 0.02em;
         color: #434455;
+        font-style:normal;
 }
 .text-with-button {
     background: #2e2f42;
@@ -138,5 +139,12 @@ font-family: "Roboto", sans-serif;
 }
 .link-nav:hover,
 .link-nav:focus {
+    color:#404bbf;
+}
+.nav-address {
+    color:#434455;
+}
+.nav-address:hover,
+.nav-address:focus {
     color:#404bbf;
 }
