@@ -132,11 +132,11 @@ font-family: "Roboto", sans-serif;
  span {
     color:#2e2f42;
  }
-.link-studio {
+.link-nav {
     line-height: 1.5;
     color: #2e2f42;
 }
-.link-studio:hover,
-.link-studio:active {
+.link-nav:hover,
+.link-nav:focus {
     color:#404bbf;
 }
