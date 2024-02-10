@@ -38,6 +38,7 @@ line-height: 1.17
         font-style:normal;
 }
 .text-with-button {
+    line-height: 1.07;
     background: #2e2f42;
 }
 .title-header {
@@ -143,8 +144,21 @@ font-family: "Roboto", sans-serif;
 }
 .nav-address {
     color:#434455;
+    line-height: 1.5;
 }
 .nav-address:hover,
 .nav-address:focus {
     color:#404bbf;
+}
+.button-header {
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    background-color: #404BBF;
+}
+.button-header:hover,
+.button-header:focus {
+    background-color: #404BBF;
 }
